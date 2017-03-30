@@ -1,2 +1,5 @@
 # OSX Finder files
 .DS_Store
+
+# IPython Notebooks
+.ipynb_checkpoints
